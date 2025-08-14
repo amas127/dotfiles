@@ -6,6 +6,7 @@
 [subrepo]
 	remote = git@github.com:amas127/dotfiles-workspace.git
 	branch = main
-	commit = 
+	commit = 4f740eadbcceeba1be62c2b4ac5923cefa5d3c27
 	method = merge
 	cmdver = 0.4.9
+	parent = 5fe3aba5fc3c721758776db4a6c11f23d58e17de
